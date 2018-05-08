@@ -1,7 +1,7 @@
 ---
-title: 'Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức'
+title: 'Công thức và cách chế biến món ăn'
 layout: Events
 path: '/events/'
-meta: Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức
-keywords: Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức
+meta: Công thức và cách chế biến món ăn
+keywords: Công thức và cách chế biến món ăn
 ---
