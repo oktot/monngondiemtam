@@ -15,12 +15,10 @@ Với hình thức thanh toán bằng tiền mặt, quý khách hàng có thể 
 Tại Bình Dương:
 **Doanh nghiệp tư nhân Thegioidaudua**
 Mã số thuế 3702542026 (cấp ngày 10/03/2017) tại Phòng đăng ký kinh doanh tỉnh Bình Dương.
-Địa chỉ: Đường Tân Hiệp 16, Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Tỉnh Bình Dương
+Địa chỉ: 250 Đường CMT8, Phường Phú Cường, Thị xã Thủ Đầu Một, Tỉnh Bình Dương
 Điện thoại liên hệ 0993 166 142 (Mr Phong)
-Tại Phú Quốc:
-**Trụ sở cửa hàng Thegioidaudua**
-Địa chỉ đang cập nhật.
-Điện thoại đang cập nhật.
+
+
 2. **Đặt mua và thanh toán sau khi nhận hàng**, quý khách hàng vui lòng điền theo form mẫu và gửi mail cho chúng tôi đến địa chỉ info@thegioidaudua.vn bao gồm các thông tin sau: Họ và tên (của người nhận cũng như người thanh toán), Số điện thoại liên hệ. Chúng tôi sẽ làm việc với các đơn vị vận chuyển sản phẩm thu tiền khi giao hàng.
 
 ## Thanh toán trực tuyến
