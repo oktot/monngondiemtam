@@ -38,7 +38,7 @@ CT này làm được 28 chiếc bánh, tỉ lệ 40g vỏ bánh: 17g nhân.
 - Chia bột thành 28 viên, mỗi viên 40g rồi cán mỏng, rìa ngoài mỏng hơn ở giữa rồi cho viên nhân vào gói. Sau khi gói xong dùng giấy lót cupcake để lót bánh, vừa tiện vừa sạch.
 - Hấp ở lửa vừa trong 7 phút 
 <div class="img">
- <img src ="/banh bao kim sa 01.jpg" align = "center" width = "100%" height="480">
+ <img src ="/banh-bao-kim-sa-01.jpg" align = "center" width = "100%" height="480">
 </div>
 Chúc các bạn thành công!
 
