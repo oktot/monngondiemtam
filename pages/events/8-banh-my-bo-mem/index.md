@@ -63,10 +63,6 @@ CÁCH LÀM
 
 7.	Cho bánh ra vỉ hong. Quét bơ chảy lên bánh (nếu thích) . Xé bánh xem thớ: mềm, dai. Thưởng thức bánh với sữa đặc hoặc phết mứt lên bánh.
 
-
-<div class="img">
- <img src ="/events/7-banh-Matcha-Delight/image001.jpg" align = "center" width = "100%" height="480">
-</div>
 Chúc các bạn thành công!
 
 
