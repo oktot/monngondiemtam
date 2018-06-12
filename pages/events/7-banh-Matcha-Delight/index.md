@@ -3,7 +3,7 @@ id: 7
 title: Bánh Matcha Delight (bánh kem trà xanh sữa chua)
 layout: EventPage
 category: events
-path: '/events/7-banh-Matcha-Delight /'
+path: '/events/7-banh-Matcha-Delight/'
 key: 7-banh-Matcha-Delight 
 
 meta: Bánh Matcha Delight (bánh kem trà xanh sữa chua)
@@ -63,7 +63,7 @@ div.WordSection1
 <div class=WordSection1>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 align=left
- width=0 style='width:574.15pt;border-collapse:collapse;border:none;margin-left:
+ width=0 style='width:297.75pt;border-collapse:collapse;border:none;margin-left:
  6.75pt;margin-right:6.75pt'>
  <tr>
   <td width=227 valign=top style='width:170.15pt;border:solid black 1.0pt;
@@ -104,8 +104,10 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
   vertical-align:baseline'>&nbsp;</p>
   </td>
-  <td width=190 valign=top style='width:142.55pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+ </tr>
+ <tr>
+  <td width=227 valign=top style='width:170.15pt;border:solid black 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
   baseline'><b>Ph&#7847;n 3:</b></p>
   <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
@@ -121,8 +123,9 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
   vertical-align:baseline'>&nbsp;</p>
   </td>
-  <td width=178 valign=top style='width:133.85pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=170 valign=top style='width:127.6pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
   baseline'><b>Ph&#7847;n 4:</b></p>
   <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
@@ -146,18 +149,6 @@ div.WordSection1
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='text-align:justify;line-height:12.8pt;vertical-align:
   baseline'><b>Cách làm bánh Matcha Delight</b></p>
-  </td>
-  <td width=190 valign=top style='width:142.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
-  baseline'><b>&nbsp;</b></p>
-  </td>
-  <td width=178 valign=top style='width:133.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
-  baseline'><b>&nbsp;</b></p>
   </td>
  </tr>
  <tr>
@@ -225,9 +216,10 @@ div.WordSection1
   &#273;&#7875; khuôn bánh vào trong ng&#259;n l&#7841;nh kho&#7843;ng 1
   ti&#7871;ng.</p>
   </td>
-  <td width=190 valign=top style='width:142.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+ </tr>
+ <tr>
+  <td width=227 valign=top style='width:170.15pt;border:solid black 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
   baseline'><b>B&#432;&#7899;c 9:</b></p>
   <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
@@ -255,7 +247,7 @@ div.WordSection1
   ng&#259;n l&#7841;nh cho &#273;&#7871;n khi l&#7899;p bánh này &#273;ông
   l&#7841;i.</p>
   </td>
-  <td width=178 valign=top style='width:133.85pt;border-top:none;border-left:
+  <td width=170 valign=top style='width:127.6pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='text-align:justify;line-height:18.75pt;vertical-align:
@@ -287,14 +279,23 @@ div.WordSection1
 </table>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
-vertical-align:baseline'><b><span style='color:#141823'>Bánh Matcha Delight
-(bánh kem trà xanh s&#7919;a chua)</span></b></p>
+vertical-align:baseline'><b><span style='color:#141823'>&nbsp;</span></b></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
 vertical-align:baseline'><b><span style='color:#141823'>&nbsp;</span></b></p>
 
+<p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
+vertical-align:baseline'><b><span style='color:#141823'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
+vertical-align:baseline'><b><span style='color:#141823'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
+vertical-align:baseline'><b><span style='color:#141823'>&nbsp;</span></b></p>
 
 </div>
+
+
 <div class="img">
  <img src ="/events/7-banh-Matcha-Delight/image001.jpg" align = "center" width = "100%" height="480">
 </div>
