@@ -293,21 +293,6 @@ vertical-align:baseline'><b><span style='color:#141823'>Bánh Matcha Delight
 <p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
 vertical-align:baseline'><b><span style='color:#141823'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
-vertical-align:baseline'><b><span style='color:#141823'><img width=624
-height=468 id="Picture 0" src="banh-matcha%20delight_files/image001.jpg"
-alt="20180403_130439.jpg"><img width=624 height=468 id="Picture 1"
-src="banh-matcha%20delight_files/image002.jpg" alt="20180403_130849.jpg"><img
-width=624 height=468 id="Picture 2"
-src="banh-matcha%20delight_files/image003.jpg" alt="20180403_131258.jpg"><img
-width=624 height=468 id="Picture 3"
-src="banh-matcha%20delight_files/image004.jpg" alt="20180403_131317.jpg"></span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
-vertical-align:baseline'><b><span style='color:#141823'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center;line-height:12.8pt;
-vertical-align:baseline'><b><span style='color:#141823'>&nbsp;</span></b></p>
 
 </div>
 <div class="img">
