@@ -45,7 +45,7 @@ module.exports = React.createClass({
 			{ process.env.NODE_ENV === 'production' ? FacebookPageSetup : null }
 	<div id="react-mount" style={{width:'100%'}} dangerouslySetInnerHTML={ {    __html: this.props.body} } />
           <script src={ prefixLink(`/bundle.js?t=${BUILD_TIME}`) } />
-		  <script async src='https://www.googletagmanager.com/gtag/js?id=UA-118913251-1' />
+		  <script async src='https://www.googletagmanager.com/gtag/js?id=UA-132788318-1' />
 		          { process.env.NODE_ENV === 'production' ? GoogleAnalyticsSetup : null }
         </body>
       </html>
@@ -59,7 +59,7 @@ function buildGoogleAnalyticsSetup() {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-118913251-1');
+  gtag('config', 'UA-132788318-1');
   `;
 
   return <script
