@@ -7,7 +7,7 @@ keywords: Hương Bánh Việt, Huong banh viet, banh viet, Món Ngon Điểm T�
 ---
 # Hương Bánh Việt
 Sau những ấp ủ về một thiên đường bánh Việt đầy màu sắc chúng tôi đã quyết định tổ chức nên một cuộc thi làm bánh Việt cho đông đảo các bạn trẻ đầu bếp không chuyên muốn thử sức mình với những món bánh Việt thơm ngon và lạ mắt. Nếu như bánh Âu là sự tinh hoa kiều diễm ngọt ngào thì bánh Việt của chúng ta lại là sự tinh tế trong mùi vị dân dã và cũng không kém phần bắt mắt. Do đó chúng tôi muốn mang niềm yêu thích bánh Việt đến với các bạn, hãy tham gia với tụi mình nhé. ^^ 
-❤️🌸[ĐĂNG KÍ THAM GIA CUỘC THI HƯƠNG BÁNH VIỆT 2019]🌸❤️
+# ❤️🌸[ĐĂNG KÍ THAM GIA CUỘC THI HƯƠNG BÁNH VIỆT 2019]🌸❤️
 
 👉🏻 Bạn là người thích ăn bánh Việt ?
 👉🏻 Bạn là người thích làm bánh Việt ?
