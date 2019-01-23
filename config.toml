@@ -1,14 +1,14 @@
-siteTitle = 'Món Ngon Điểm Tâm'
-siteDescr = 'Địa điểm ăn uống Bình Dương'
-siteDescription = "Hãy ăn uống ngay."
-siteUrl = "https://thegioidaudua.vn"
-siteBandcampUrl = 'https://thegioidaudua.vn'
+siteTitle = 'Hương Bánh Việt'
+siteDescr = 'Hương Bánh Việt'
+siteDescription = "Hãy thưởng thức ngay."
+siteUrl = "https://huongbanhviet.net/"
+siteBandcampUrl = 'https://huongbanhviet.net/'
 siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
-siteFacebookUrl = 'https://www.facebook.com/bepnhaty/'
+siteFacebookUrl = 'https://www.facebook.com/huongbanhviet/'
 siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
 siteTwitterUrl = 'https://twitter.com/nihon_ne'
 siteGoogleplusUrl = ''
 siteGithubUrl = 'https://github.com/nihonne'
-siteYoutubeUrl = 'https://www.youtube.com/cumoi'
+siteYoutubeUrl = 'https://www.youtube.com/dongque'
 
 linkPrefix = '/'
