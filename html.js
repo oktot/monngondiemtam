@@ -59,7 +59,7 @@ function buildGoogleAnalyticsSetup() {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-135258932-1');
+  gtag('config', 'UA--1');
   `;
 
   return <script
@@ -70,7 +70,7 @@ function buildGoogleAnalyticsSetup() {
 function buildGoogleAdSense() {
   const js = `
   (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: 'ca-pub-2757406005927312',
+    google_ad_client: 'ca-pub-',
     enable_page_level_ads: true
   });
   `;
