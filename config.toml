@@ -1,14 +1,14 @@
-siteTitle = 'Hương Bánh Việt'
-siteDescr = 'Hương Bánh Việt'
-siteDescription = "Hãy thưởng thức ngay."
-siteUrl = "https://huongbanhviet.net/"
-siteBandcampUrl = 'https://huongbanhviet.net/'
+siteTitle = 'binhduong-aptech.edu.vn'
+siteDescr = 'binhduong-aptech.edu.vn'
+siteDescription = "binhduong-aptech.edu.vn."
+siteUrl = "https://binhduong-aptech.edu.vn/"
+siteBandcampUrl = 'https://binhduong-aptech.edu.vn/'
 siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
 siteFacebookUrl = 'https://www.facebook.com/huongbanhviet/'
 siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
 siteTwitterUrl = 'https://twitter.com/nihon_ne'
 siteGoogleplusUrl = ''
 siteGithubUrl = 'https://github.com/nihonne'
-siteYoutubeUrl = 'https://www.youtube.com/dongque'
+siteYoutubeUrl = 'https://www.youtube.com/totkhtn'
 
 linkPrefix = '/'
